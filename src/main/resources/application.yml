@@ -1,0 +1,12 @@
+twilio:
+  account_sid: ACa92bbd6a36bcb2332XXXXXXXXXXXXXe
+  auth_token: 7edf6fbac662adf87fXXXXXXXXXXXXX1
+  trail_number: +14155238886
+
+
+  
+  
+  
+  
+server:
+    port: 8081
